@@ -25,7 +25,7 @@ A business plan was formed by the Business Team and presented to the SC sharehol
 
 ———
 Method of vote.
-2 wallets were used (previously made for a vote for funding and cation by shareholders. It was emptied of those 304 Qu or votes and addresses re used as known. Reset to zero was via 304 withdrawal from vote wallet in transaction list.304 Qu were sent to shareholder funding wallet.)
+2 wallets were used (previously made for a vote for funding by shareholders. It was emptied of those 304 Qu or votes and addresses re used as known. Reset to zero was via 304 withdrawal from vote wallet in transaction list.304 Qu were sent to shareholder funding wallet.)
 
 Yes wallet 
 
@@ -50,6 +50,7 @@ We will manually verify votes and provide list and proof of holdings.
 The following are the changes to the Smart contract desired.
 
 Current
+
 DEV 20%
 
 SC shareholders 16%
