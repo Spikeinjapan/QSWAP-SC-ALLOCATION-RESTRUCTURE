@@ -78,7 +78,7 @@ New Invest & Rewards Address
 
 VJGRUFWJCUSNHCQJRWRRYXAUEJFCVHYPXWKTDLYKUACPVVYBGOLVCJSFRONJ
 
-(This address was tested with deposit and withdrawal done by SpikeinJapan (Discord). This will become a multisig account after Comps allowance of changes.)
+(This address was tested with deposit and withdrawal done by SpikeinJapan (Discord). This will become a multisig account if Comps allowance of changes.)
 
 
 ——-
