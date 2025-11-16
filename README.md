@@ -51,17 +51,27 @@ The following are the changes to the Smart contract desired.
 
 Current
 DEV 20%
+
 SC shareholders 16%
+
 LP providers 64%
+
 Total 100%
 
 NEW
+
 Dev 0%
+
 SC shareholders 27%
+
 QX 5% (To QX address as revenue and distributed according to their allocation)
+
 Invest & Rewards 3%
+
 SC Burn 1%
+
 LP providers 64%
+
 Total 100%
 
 New Invest & Rewards Address
