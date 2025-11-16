@@ -15,7 +15,7 @@ https://discord.com/channels/768887649540243497/1405560116127989770/143873020797
 
 The QSWAP shareholders have decided to develop the business themselves and lead by a 5 member team (made up of SC holders) has initiated a restructure.
 
-Business team decided QX should be receiving a portion of revenue, Investment & Rewards Fund, Burn as ADDITIONAL allocations of the trading fees.
+Business team decided to add 3 (QX portion, Investment & Rewards Fund, and Burn) as ADDITIONAL allocations of the trading fees.
 
 (Link to business plan here)
 
