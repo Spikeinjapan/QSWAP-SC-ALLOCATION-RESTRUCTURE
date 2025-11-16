@@ -5,7 +5,7 @@ QSWAP Restructure Proposal
 
 QSWAP shareholders aim to restructure of the current distribution model of the trading fees to a more fair business model.
 
-The QSWAP SC was developed by the Dev team headed by (discord name) PeterD but was later abandoned soon after the IPO. PETERD decided NOT to build the business to run an LP DEX on top of this smart contract.  He has started a couple times that he will forfeit the Dev allocation of 20% to the community. He has also not done any further development or indicated his intent to since soon after the IPO.
+The QSWAP SC was developed by the Dev team headed by (discord name) PeterD but was later abandoned soon after the IPO. PETERD decided NOT to build the business to run an LP DEX on top of this smart contract.  He has stated a couple times that he will forfeit the Dev allocation of 20% to the community. He has also not done any further development or indicated his intent to since soon after the IPO.
 
 Proof of giving to community see here.
 
