@@ -49,7 +49,7 @@ PLEASE SEE IMAGE FILE INCLUDED IN THIS REPOSITORY. THIS IS MANUAL VERIFICATION O
 
 The following are the changes to the Smart contract desired.
 
-Current
+**Current**
 
 DEV 20%
 
@@ -59,7 +59,7 @@ LP providers 64%
 
 Total 100%
 
-NEW
+**NEW**
 
 Dev 0%
 
