@@ -37,13 +37,13 @@ JWOHIGJPAUZBCHQABBCJLCXEJQNAGYZERRAZWQZFAGTWBTIZKQKEFUHFAXBK
 
 Shareholders send 1 Qu for EACH QSWAP SC they hold in their wallet to either the Yes or No wallets. 
 
-Vote ends 18th November 2025 (started 11th November 2025)
+Vote ended 18th November 2025 (started 11th November 2025)
 
-At present count 17th November 2025
-Yes. 363
+Final Vote 
+Yes. 362. (367 shows in wallet but after verification some sold)
 No. 0
 
-We will manually verify votes and provide list and proof of holdings.
+PLEASE SEE IMAGE FILE INCLUDED IN THIS REPOSITORY. THIS IS MANUAL VERIFICATION OF VOTE.
 
 ——
 
